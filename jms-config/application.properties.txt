@@ -1,2 +1,2 @@
-info.foo=ConfigDesdeProperties
+info.bar=ConfigDesdeProperties
 info.someList=1,5,6
